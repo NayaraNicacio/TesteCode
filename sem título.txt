@@ -1,0 +1,172 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Receitas</title>
+ </head> 
+     <body>
+         <header>
+             
+             <!-- CAIXA FOTO DO PERFIL -->
+             <div>
+ 
+                 <figure>
+                     <img src="./img/eu.jpg" alt="">
+                     <figcaption>Arthur Siqueira</figcaption>
+                 </figure>
+ 
+             </div>
+ 
+             <!-- Informações Pessoais -->
+             <div>
+                 
+                 <h1>Arthur Siqueira</h1>
+                 <p>Ciêntista de Dados</p>
+ 
+                 <ul>
+                     <li>
+                         <a href="malito:apcs.1502@gmail.com">apcs.1502@gmail.com</a>
+                     </li>
+ 
+                     <li>
+                         <a href="tel:+5561999077448">(61) 99907-7448</a>
+                     </li>
+ 
+                     <li>
+                         <a href="#">Águas Claras, Qd 204, lote 07</a>
+                     </li>
+                 </ul>
+ 
+             </div>
+ 
+ 
+ 
+         </header>
+ 
+         <main>
+ 
+             <!-- cONTEÚDO LADO DIREITO -->
+             <div>
+                 <section>
+                     <h2>Perfíl Profissional</h2>
+                     <p>Trabalho com base de dados, criando informações e apoiando decisões</p>
+                 </section>
+ 
+                 <section>
+                     <h2>Especialidade</h2>
+                     <ul>
+                         <li>Spark</li>
+                         <li>MapRedulce</li>
+                         <li>Numpu</li>
+                         <li>Python</li>
+                         <li>R</li>
+                         <li>Excel</li>
+                     </ul>
+                     <section>
+                         <h2>Cursos</h2>
+                         <ul>
+                             <li>Como investir</li>
+                             <li>Aprenda Pandas</li>
+                             <li>Tratar Dados</li>
+                         </ul>
+                     </section>
+                 </section>
+             </div>
+ 
+             <!-- CONTEÚDO LADO eSQUERDO -->
+             <div>
+                 <section>
+                     <h2>Experiências</h2>
+                     <ul>
+                         <li>
+                             <h3>Técnico informática</h3>
+                             <strong>Nome da empresa Sempretec - Vespertino</strong>
+                             <p>Período - 8 meses</p>
+                             <p>Local Águas Claras, Brasília</p>
+ 
+                             <h3>Técnico equipamentos Hospitalares</h3>
+                             <strong>Nome da empresa BS Diagnóstica - Matutino</strong>
+                             <p>Período - 8 meses</p>
+                             <p>Local Águas Claras, Brasília</p>
+ 
+                             <h3>Representante de turma</h3>
+                             <strong>Nome da empresa Uniceub - Vespertino</strong>
+                             <p>Período - 8 meses</p>
+                             <p>Local Águas Claras, Brasília</p>
+                         </li>
+                     </ul>
+                 </section>
+ 
+                 <section>
+                     <h2>Formação</h2>
+                     <ul>
+                         <li>
+                             <h3>Análise e Desenvolvimento de Sistemas <strong>01/01/2018 - 07/07/2020</strong></h3>
+                             <p>Uniceub</p>
+                         </li>
+ 
+                         <li>
+                             <h3>Técnico em Eletrônica <strong>01/01/2018 - 07/07/2020</strong></h3>
+                             <p>Escola Técnica de Brasília</p>
+                         </li>
+ 
+                         <li>
+                             <h3>Ciência de Dados e Machine Learniing<strong>01/01/2018 - 07/07/2020</strong></h3>
+                             <p>Uniceub</p>
+                         </li>
+                     </ul>
+                 </section>
+ 
+             </div>
+ 
+         </main>
+ 
+         <footer>
+             <div>
+ 
+                 <nav>
+                     <ul>
+                         <li>
+                             <a href="malito:apcs.1502@gmail.com">apcs.1502@gmail.com</a>
+                         </li>
+     
+                         <li>
+                             <a href="tel:+5561999077448">(61) 99907-7448</a>
+                         </li>
+     
+                         <li>
+                             <a href="#">Águas Claras, Qd 204, lote 07</a>
+                         </li>
+                     </ul>
+                 </nav>
+ 
+                 <nav>
+                     <ul>
+                         <li>
+                             <a href="https://www.linkedin.com/in/arthur-porfirio-de-castro-siqueira">
+                                 <img src="./img/linkedin.jpg" alt="">
+                                 <p>Linkedin</p>
+                             </a>
+                         </li>
+                         <li>
+                             <a href="https://github.com/arthurporfirio">
+                                 <img src="./img/github.jpg" alt="">
+                                 <p>Github</p>
+                             </a>
+                         </li>
+                         <li>
+                             <a href="https://www.youtube.com/channel/UCQQ-9mBF7gZTeBMOH6FTm-w">
+                                 <img src="./img/youtube.jpg" alt="">
+                                 <p>Youtube</p>
+                             </a>
+                         </li>
+                     </ul>
+ 
+                 </nav>
+             </div>
+         </footer>
+ 
+     </body>
+ </html>
